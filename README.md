@@ -1,6 +1,6 @@
 # Crawl Model
 
-This is code accompanying the paper "Predicting path from undulations for *C. elegans* using linear and nonlinear resistive force theory" by Eric E. Keaveny and André E.X. Brown, accepted in Physical Biology.  Please cite us if you find this code useful in one of your own papers.
+This is code accompanying the paper "Predicting path from undulations for *C. elegans* using linear and nonlinear resistive force theory" by [Eric E. Keaveny and André E.X. Brown (2017) Physical Biology](https://doi.org/10.1088/1478-3975/aa5ce6).  Please cite us if you find this code useful in one of your own papers.
 
 The code calculates the centre of mass motion of worms based on their shape changes over time.  The four scripts in the Demo folder reproduce the figures in the paper.  The data to analyse can be downloaded from ftp://ftp.mrc-lmb.cam.ac.uk/pub/tjucikas/wormdatabase/results-12-06-08/.
 
